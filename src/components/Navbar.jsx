@@ -1,8 +1,9 @@
 import { useState, useEffect } from "react";
 import { useThemeContext } from "../context/ThemeContext";
 import { useTranslation } from "react-i18next";
+import i18n from "i18next";
 import logo from "../assets/logo.svg";
-import i18n from "../i18n";
+
 
 export default function Navbar() {
   const { theme, setTheme } = useThemeContext();
