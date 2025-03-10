@@ -1,0 +1,50 @@
+{
+  "home": {
+    "title": "Home",
+    "title_h2": "Behind the scenes of your success.",
+    "description": "Customer support, we are behind what will be your success, support, ensuring your success through your connections. Specialized service in consulting, regulation and private-public sector relations.",
+    "button": "Contact"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Background Hub is the result of a union of consultants with over two decades of experience in the public and private sectors.  With complementary academic backgrounds and diverse professional trajectories, our specialists work in large organizations, ranging from multinational companies to governmental entities.",
+    "approachTitle": "Our Approach",
+    "approachDescription": "Our collaborative approach allows us to offer integrated solutions, encompassing technical, regulatory, legal, and political aspects, always aligned with our clients' strategic needs.",
+    "reachTitle": "Scope",
+    "reachDescription": "Professionals with diverse backgrounds and experiences work together seamlessly in the execution of projects.",
+    "experienceTitle": "Experience",
+    "experienceDescription": "Consultants with over 20 years of experience, with backgrounds in both the public and private sectors and an extensive network of contacts.",
+    "dynamismTitle": "Dynamism",
+    "dynamismDescription": "A functional network structure, formed by leading market experts, mobilized according to the specific demands of each client."
+  },
+  "services": {
+    "title": "Services",
+    "description": "The Background Hub serves as a connection point for highly qualified specialists who are called upon on demand to fulfill specific contracts. Our permanent team establishes a strategic dialogue with clients to understand their needs, define the services that add value to their business and mobilize the network of associated consultants.",
+    "consultancy": "Consultancy",
+    "consultancy_txt": "Production of technical and legal opinions; Specialized expert analyses in various sectors; Data analysis to support decision-making; On-demand training with experts from various areas.",
+    "support": "Specialized Support",
+    "support_txt": "Development and execution of regulatory strategy in diverse markets; Support for the implementation of public-private partnerships; Implementation of risk management, governance and compliance mechanisms."
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Get in touch and share your business challenges with us. We are ready to offer strategic and personalized solutions",
+    "open": "Contact",
+    "close": "Close",
+    "formTitle": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send",
+    "namePlaceholder": "Enter your name...",
+    "emailPlaceholder": "Enter your email...",
+    "phonePlaceholder": "Enter your phone...",
+    "messagePlaceholder": "Enter your message..."
+  },
+  "footer": {
+    "title": "The Background Hub",
+    "date": "2024",
+    "direitos": "All rights reserved",
+    "placeholder": "Enter your email..."
+  }
+}
