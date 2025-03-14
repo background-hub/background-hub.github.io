@@ -33,14 +33,14 @@ export default function Home() {
   const { t } = useTranslation();
 
   return (
-    <section id="home" className="h-screen">
+    <section id="home" className=" h-[68vh]">
       <div
-        className="relative h-screen bg-cover bg-center flex items-center justify-center lg:justify-end px-6 z-[10]"
+        className="relative h-[65vh] bg-cover bg-center flex items-center justify-center lg:justify-end px-6 z-[10]"
         style={{ backgroundImage: `url(${imgHome})` }}
       >
         <div className="absolute inset-0"></div> {/* Filtro escuro */}
-        <div className="relative z-10 text-white text-center lg:text-right max-w-7xl">
-          <h2 className="title-home text-5xl lg:text-[7rem] font-semibold mb-4">
+        <div className="relative z-10 text-white text-center lg:text-right max-w-7xl w-[45rem]">
+          <h2 className="title-home text-3xl lg:text-[5rem] font-semibold mb-4">
             {t("home.title_h2")}
           </h2>
           <p className="text-lg lg:text-2xl mb-6 title-home">
@@ -50,7 +50,7 @@ export default function Home() {
             <a
               onClick={() => scrollToSection("contact")}
               href="#contato"
-              className="w-40 h-14 lg:w-48 lg:h-24 flex items-center justify-center bg-[#0353a4] text-white text-lg lg:text-2xl font-bold title-home rounded-md shadow-md"
+              className="w-20 h-20 lg:w-32 lg:h-24 flex items-center justify-center bg-[#0353a4] text-white text-lg lg:text-2xl font-bold title-home rounded-md shadow-md"
             >
               {t("home.button")}
             </a>

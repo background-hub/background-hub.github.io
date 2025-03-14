@@ -61,7 +61,7 @@ export default function Navbar() {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
         <button className="font-semibold btn_nav z-[51]">
-          <img src={logo} alt="Logo" className="w-32 h-auto" />
+          <img src={logo} alt="Logo" className="w-50 h-auto" />
         </button>
 
         {/* Botão Hamburguer (Somente Mobile) */}

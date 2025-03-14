@@ -27,7 +27,7 @@ export default function Contact() {
         </p>
         <button
           onClick={handleFormToggle}
-          className="w-48 h-24 bg-[#0353a4] text-white text-2xl font-bold title-home rounded-md shadow-md flex items-center justify-center btn-contact"
+          className="w-32 h-20 bg-[#0353a4] text-white text-2xl font-bold title-home rounded-md shadow-md flex items-center justify-center btn-contact"
         >
           <p className="texto-contato">
             {isFormVisible ? t("contact.close") : t("contact.open")}
