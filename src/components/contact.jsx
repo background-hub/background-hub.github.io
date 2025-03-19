@@ -25,12 +25,11 @@ export default function Contact() {
           {t("contact.title")}
         </h2>
         <p className="text-lg text-gray-700 dark:text-gray-300">
-          {t("contact.description")}
-        </p>
-        <p className="text-lg text-gray-700 dark:text-gray-300">
           contato@background-hub.com
         </p>
-
+        <p className="text-lg text-gray-700 dark:text-gray-300">
+          {t("contact.description")}
+        </p>
         {/* Botão que abre o e-mail */}
         <button
           onClick={handleSendEmail}
