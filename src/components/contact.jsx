@@ -27,6 +27,9 @@ export default function Contact() {
         <p className="text-lg text-gray-700 dark:text-gray-300">
           {t("contact.description")}
         </p>
+        <p className="text-lg text-gray-700 dark:text-gray-300">
+          contato@background-hub.com
+        </p>
 
         {/* Botão que abre o e-mail */}
         <button
